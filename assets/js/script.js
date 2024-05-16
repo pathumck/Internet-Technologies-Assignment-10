@@ -100,3 +100,7 @@ document.getElementsByTagName("button")[18].addEventListener('click', function()
 document.getElementsByTagName("button")[0].addEventListener('click', function() {
     displayText.value = "";
 });
+
+document.getElementsByTagName("button")[1].addEventListener('click', function() {
+    displayText.value = displayText.value.slice(0,-1);
+});
