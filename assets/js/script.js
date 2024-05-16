@@ -96,3 +96,7 @@ document.getElementsByTagName("button")[17].addEventListener('click', function()
 document.getElementsByTagName("button")[18].addEventListener('click', function() {
     calculate();
 });
+
+document.getElementsByTagName("button")[0].addEventListener('click', function() {
+    displayText.value = "";
+});
