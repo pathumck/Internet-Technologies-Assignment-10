@@ -59,6 +59,5 @@ button {
     border-radius: 40px;
     background-color: #ecf0f3;
     box-shadow: inset -5px -5px 12px #ffffff,
-                      5px 5px 12px rgba(0, 0, 0, 0.16);
-                      
+                      5px 5px 12px rgba(0, 0, 0, 0.16);                  
 }
